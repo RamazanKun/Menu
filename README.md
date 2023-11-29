@@ -14,4 +14,4 @@
 
 <h2>Screenshot / Ekran Görüntüsü</h2>
 
- ![](MenuDesign.mp4)
+ ![](MenuDesign)
